@@ -1,24 +1,17 @@
-# Breaking Warning
+# Breaking Warning Admin Only
 
 ## Overview
 
 This is a mod for the game of Don't Starve Together which is available in the Steam Workshop. 
 
-Being annoyed by someone jumping into your server and destroying everything you built when you were not near your base.
-
-Now you can get the announcement message the minute he/she doing something bad, such as hammering or lighting your structures.
-
-BTW, it will also print the user id of the doer in the server log so that you can ban he/she manually.
+it will inform admin, if you wish.
 
 ## Changelog
 
-**Version 1.3.0**
+**Version 2.1.0**
 
 - Add different notice method.
 
-**Version 1.1**
-
-- Add a option to turn off announcement, which means it only print it in the log file.
 
 ## License
 
